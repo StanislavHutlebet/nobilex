@@ -1,0 +1,13 @@
+name: nobilex_shop
+recipe: wordpress
+config:
+  webroot: .
+  database: mysql
+services:
+  database:
+    type: mysql
+    portforward: 3852
+    creds:
+      user: nobilex_shop
+      password: nobilex_shop
+      database: nobilex_shop

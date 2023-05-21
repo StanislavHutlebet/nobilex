@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="PS-222.3739.61">
+    <data-source name="nobilex_shop" uuid="3302a26b-9d58-4958-aeb5-5a8e1188d397">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>nobilex_shop</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
